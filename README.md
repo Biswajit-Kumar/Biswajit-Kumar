@@ -1,4 +1,6 @@
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duotone=true&center=true&vCenter=true&width=600&height=60&pause=1000&color=8A2BE2&lines=Hi%2C+I'm+Biswajit+Dash+%F0%9F%91%8B;Friends+call+me+Biswa;AI+Engineer+in+training" alt="Typing SVG" />
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=28&duotone=true&center=true&vCenter=true&width=600&height=60&pause=1000&color=8A2BE2&lines=Hi%2C+I'm+Biswajit+Dash+%F0%9F%91%8B;Friends+call+me+Biswa!!;AI+Engineer+in+training..." alt="Typing SVG" />
+</div>
 
 <p align="center">
 <b>AI Engineer in training · MTech @ IIIT Allahabad · GenAI & Agentic AI</b>
