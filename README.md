@@ -35,7 +35,7 @@ print(biswa.say_hi())
 | Project | Description | Stack |
 |---|---|---|
 | **[PaperMind](https://github.com/Biswajit-Kumar/PaperMind)** | AI-powered document chat platform — upload PDFs, websites, or YouTube videos and query them in natural language with semantic search and source citations. Extended from an open-source base ([StudyBuddy LM](https://github.com/AaryanChandrakar/StudyBuddy-LM)) with a Gemini-powered AI pipeline, credit-based usage tracking, and a full rebrand. | React, Express, MongoDB, Qdrant, LangChain, Google Gemini |
-| **[ml-journey-2025](https://github.com/Biswajit-Kumar/ml-journey-2025)** | *(tell me what this actually contains — coursework, from-scratch implementations, Kaggle practice — and I'll fill this in properly)* | Python |
+| **[ml-journey-2025](https://github.com/Biswajit-Kumar/ml-journey-2025)** | A hands-on machine learning learning log — built while picking up core ML concepts, culminating in a small web app that uses an ML model for intelligent data retrieval. | Python |
 
 ---
 
@@ -43,39 +43,39 @@ print(biswa.say_hi())
 
 **Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 **Frontend**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
 **GenAI & AI Engineering**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Pipelines-FF6F61?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-Pipelines-FF6F61?style=flat-square)
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square&logo=qdrant&logoColor=white)
 
 **Cloud & Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 **Relevant Coursework:** Generative AI · Deep Learning · Machine Learning · Operating Systems · DBMS
 
@@ -99,12 +99,7 @@ print(biswa.say_hi())
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Biswajit-Kumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Biswajit-Kumar&theme=tokyonight&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajit-Kumar&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -119,7 +114,7 @@ print(biswa.say_hi())
 </picture>
 </p>
 
-*(this needs a one-time setup — see instructions below, it won't render until then)*
+*(this needs the one-time GitHub Action setup — see `snake.yml` sent earlier — it won't render until then)*
 
 ---
 
@@ -144,8 +139,8 @@ $ ./run_forever.sh
 ### 📫 Connect
 
 <p align="center">
-<a href="https://linkedin.com/in/biswajit-dash-68573317a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/Biswajit-Kumar"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://linkedin.com/in/biswajit-dash-68573317a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/Biswajit-Kumar"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>Tryna be better than yesterday.</i></p>
