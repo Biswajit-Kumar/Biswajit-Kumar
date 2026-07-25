@@ -114,7 +114,6 @@ print(biswa.say_hi())
 </picture>
 </p>
 
-*(this needs the one-time GitHub Action setup — see `snake.yml` sent earlier — it won't render until then)*
 
 ---
 
