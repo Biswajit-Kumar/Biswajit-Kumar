@@ -34,7 +34,7 @@ print(biswa.say_hi())
 
 | Project | Description | Stack |
 |---|---|---|
-| **[PaperMind](https://github.com/Biswajit-Kumar/PaperMind)** | AI-powered document chat platform — upload PDFs, websites, or YouTube videos and query them in natural language with semantic search and source citations. Extended from an open-source base ([StudyBuddy LM](https://github.com/AaryanChandrakar/StudyBuddy-LM)) with a Gemini-powered AI pipeline, credit-based usage tracking, and a full rebrand. | React, Express, MongoDB, Qdrant, LangChain, Google Gemini |
+| **[PaperMind](https://github.com/Biswajit-Kumar/PaperMind)** | AI-powered document chat platform — upload PDFs, websites, or YouTube videos and query them in natural language with semantic search and source citations. Extended from an open-source base with a Gemini-powered AI pipeline, credit-based usage tracking, and a full rebrand. | React, Express, MongoDB, Qdrant, LangChain, Google Gemini |
 | **[ml-journey-2025](https://github.com/Biswajit-Kumar/ml-journey-2025)** | A hands-on machine learning learning log — built while picking up core ML concepts, culminating in a small web app that uses an ML model for intelligent data retrieval. | Python |
 
 ---
